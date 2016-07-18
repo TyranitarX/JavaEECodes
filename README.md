@@ -6,7 +6,9 @@
 3. 在Servers面板中新建Tomcat服务器，一定要关联到Tomcat安装的根目录
 4. 新建一个Dynamic Web Project ，其中Target Runtime  需要选择 Tomcat6.0
 5. 开发Java WEB应用
-6. 可以通过run on server 来运行 WEB项目.    
+6. 可以通过run on server 来运行 WEB项目.
+
+    
 ####SE版本开发基本流程（Eclipse）
 1. 新建JavaSE项目
 2. 右键项目，导入TomCat中servelt-api.jar包
