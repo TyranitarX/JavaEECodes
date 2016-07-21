@@ -1,4 +1,4 @@
-#Servelt开发环境设置
+#Servlet开发环境设置
 ***
 ####EE版本开发基本流程（Eclipse）
 1. 把开发选项切换到JavaEE
@@ -11,7 +11,7 @@
     
 ####SE版本开发基本流程（Eclipse）
 1. 新建JavaSE项目
-2. 右键项目，导入TomCat中servelt-api.jar包
+2. 右键项目，导入TomCat中servlet-api.jar包
 3. 在项目下建立web文件夹，在web文件夹下建立WEB-INF文件夹，并在WEB-INF文件夹下创建classes文件夹
 4. 右键项目选择Properties，点击左边的JAVA Build Path，选择Source选项，更改output folder为WEB-INF下的classes文件夹
 5. WEB-INF文件夹创建web.xml配置文件
